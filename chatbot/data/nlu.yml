@@ -90,3 +90,18 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+- intent: help
+  examples: |
+    - I am in need of help
+    - I need a favour from you
+
+- intent: cancer_info
+  examples: |
+    - what is cancer?
+    - cancer, what is it?
+
+- intent: cancer_life_expectancy
+  examples: |
+    -do people lose life expectancy becuase of cancer?
+    -do I live a shorter life?
+    -do people live a healthy yet painful life?

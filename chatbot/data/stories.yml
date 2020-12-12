@@ -28,3 +28,10 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: path
+  steps:
+  - intent: cancer_info
+  - action: utter_cancer_info
+  - intent: cancer_life_expectancy
+  - action: utter_cancer_life_expectancy
