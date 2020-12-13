@@ -35,3 +35,39 @@ stories:
   - action: utter_cancer_info
   - intent: cancer_life_expectancy
   - action: utter_cancer_life_expectancy
+
+- story: cancer treatment
+  steps:
+  - intent: cancer_treatment
+  - action: utter_cancer_treatment
+  - intent: chemo_treatment
+  - action: utter_chemo_treatment
+  - intent: cancer_pain
+  - action: utter_cancer_pain
+  - intent: cancer_drugs
+  - action: utter_cancer_drugs
+
+- story: cancer surgery
+  steps:
+  - intent: cancer_surgery
+  - action: utter_cancer_surgery
+  - intent: cancer_proactive
+  - action: utter_cancer_proactive
+  - intent: treatment_fail
+  - action: utter_treatment_fail
+
+- story: chemotherapy
+  steps:
+  - intent: chemo_treatment
+  - action: utter_chemo_treatment
+  - intent: chemo_work
+  - action: utter_chemo_work
+  - intent: chemo_sideeffects
+  - action: utter_chemo_sideeffects
+
+- story: radiation therapy
+  steps:
+  - intent: radiation_info
+  - action: utter_radiation_info
+  - intent: radiation_side
+  - action: utter_radiation_side

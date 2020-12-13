@@ -67,6 +67,18 @@ nlu:
     - so good
     - so perfect
 
+- intent: cancer_info
+  examples: |
+    - what is cancer?
+    - cancer, what is it?
+
+- intent: cancer_life_expectancy
+  examples: |
+    -do people lose life expectancy becuase of cancer?
+    -do I live a shorter life?
+    -do people live a healthy yet painful life?
+
+
 - intent: mood_unhappy
   examples: |
     - my day was horrible
@@ -95,13 +107,76 @@ nlu:
     - I am in need of help
     - I need a favour from you
 
-- intent: cancer_info
-  examples: |
-    - what is cancer?
-    - cancer, what is it?
+
 
 - intent: cancer_life_expectancy
   examples: |
     -do people lose life expectancy becuase of cancer?
     -do I live a shorter life?
     -do people live a healthy yet painful life?
+
+- intent: cancer_treatment
+  examples: |
+    -how do I treat cancer?
+    -what are options?
+    -help me to treat cancer
+    -cancer treatments
+    -cancer cure
+
+- intent: cancer_pain
+  examples: |
+    -is cancer paintful
+    -is treatment painful
+    -cancer pain
+
+- intent: chemo_treatment
+  examples: |
+    -what is chemotherapy
+    -chemotherapy
+    -how is chemotherapy carried out
+
+- intent: cancer_drugs
+  examples: |
+    -which drugs are given
+    -medications
+    -what medicines will be given
+
+- intent: cancer_surgery
+  examples: |
+    -what happens in cancer surgery
+    -how is surgery carried out
+    -cancer surgery
+    -surgery process
+
+- intent: cancer_proactive
+  examples: |
+    -how to cope up with stress
+    -how to be proactive
+    -how to help
+    -i need help to cope up
+
+- intent: treatment_fail
+  examples: |
+    -what happens if treatment fails
+    -treatment not working
+  
+- intent: chemo_work
+  examples: |
+    -how does chemotherapy work
+
+- intent: chemo_sideeffects
+  examples: |
+    -what are the side effects of chemo
+    -side effects of treatment
+    -side effects
+
+- intent: radiation_info
+  examples: |
+    -what is radiation therapy
+    -how is radiation therapy done
+    -radiation therapy
+
+- intent: radiation_side
+  examples: |
+    -what are the side effects of radiation therapy
+    -side effects of radiation
