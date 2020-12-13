@@ -30,11 +30,61 @@ responses:
   - text: "I am a bot, powered by Rasa."
 
   utter_cancer_info:
-    - text: When cells in body abnormally divide out, the abnormal cell forms tumour
+    - text: "When cells in body abnormally divide out, the abnormal cell forms tumour"
 
   utter_cancer_life_expectancy:
-    - text: No
+    - text: "No"
+  
+  utter_cancer_treatment:
+  - text: "Here are some of the most common and widely used cancer treatments:
+           1. Surgery: The main goal is to remove tumors, tissue, or areas with cancer cells, such as lymph nodes. Doctors also may do it to diagnose the disease or find out how serious it is.
+           2. Chemotherapy: Chemotherapy uses drugs to kill cancer cells.
+           3. Radiation: This common treatment uses high-energy particles or waves to destroy or damage cancer cells to keep them from spreading."
 
+  utter_cancer_pain:
+  - text: "While the initial treatment might not be so paintful it can have some painful aftereffects."
+
+  utter_chemo_treatment:
+  - text: "Chemotherapy uses drugs to kill cancer cells. In traditional chemotherapy you get most chemo medications through an injection into a vein.
+  In oral chemotherapy you swallow a drug in liquid, tablet, or capsule form at home."
+
+  utter_cancer_drugs:
+  - text: "Bortezomib (Velcade) Chlorambucil (Leukeran) Cyclophosphamide (Cytoxan, Neosar) Gemcitabine (Gemzar) Gleevec Irinotecan (Camptosar) Irinotecan liposome injection (Onivyde) Methotrexate (Rheumatrex, Trexall) Oxaliplatin (Eloxatin) Trastuzumab (Herceptin)"
+
+  utter_cancer_surgery:
+  - text: "If you have cancer, you may have surgery at some point. Sometimes, it can completely treat the disease.
+  The main types of cancer surgery are:
+  1. Diagnostic: This is also known as a biopsy. It helps your doctor know if a tumor is cancerous. Your surgeon will cut into your skin to remove some of the suspicious tissue
+  2. Staging: This allows your cancer specialist to figure out the size of your tumor. Usually, your surgeon will also remove the lymph nodes -- tiny bean-shaped organs that help fight infection -- near the tumor as well. 
+  3. Curative: This operation removes an entire tumor and some of the healthy tissue that surrounds it.
+  4. Debulking: This removes only part of a cancer tumor.
+  5. Reconstructive: This type of operation happens after the main one."
+
+  utter_cancer_proactive:
+  - text: "Here's how you can be proactive with your treatment:
+  Do your research. Learn about your condition and treatments so you and your doctor can decide your care together.
+  Prepare, and bring a buddy. Write down questions or concerns before each doctor visit.
+  Trust your instincts. To feel comfortable with your choices, you'll need to feel comfortable with your doctor.
+  Track your side effects. You'll likely take many different medicines during your treatment.
+  Accept support. Your family, friends, neighbors, and coworkers will want to help.
+  Apply for aid. Many kinds of financial aid exist to help people.
+  Follow up. Don't assume no news is good news."
+
+  utter_treatment_fail:
+  - text: "Not all cancer treatments work at the same speed. Surgery removes all or most of the cancer at one time, but it can take weeks or months after you get radiation for all of the cancer cells to die.
+  After treatments like chemotherapy, radiation, immunotherapy, and targeted therapy, your doctor will examine you for any new growths."
+
+  utter_chemo_work:
+  - text: "It targets cells that grow and divide quickly, as cancer cells do. Unlike radiation or surgery, which target specific areas, chemo can work throughout your body."
+
+  utter_chemo_sideeffects:
+  - text: "Nausea and Vomiting, Hair loss, Sun sensitivity, Taste change and Fatigue"
+
+  utter_radiation_info:
+  - text: "The aim is to treat your cancer by slowing or stopping tumor growth. Your doctor may sometimes suggest you get radiation therapy to shrink a tumor before you get surgery."
+
+  utter_radiation_side:
+  - text: "Nausea and Vomiting, Hair loss, Sun sensitivity, Taste change and Fatigue"
 
 session_config:
   session_expiration_time: 60
