@@ -9,7 +9,7 @@ This is a project built for Hackoff 3.0. The problem statement we
 For the chatbot we have used Rasa NLU. The chatbot is based on the intent and entity of the response
 from the user. For the text corpus we have taken data from webmd.com.
 
-Contributors:
+Contributors:<br>
 Thejin G<br>
 Vishik Raj<br>
 Shikhar Mundhada<br>
