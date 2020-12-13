@@ -1,6 +1,6 @@
 # doctr
 
-This is a project built for Hackoff 4.0. The problem statement we
+This is a project built for Hackoff 3.0. The problem statement we
  chose for the SIEMENS Healthineers Chatbot challenge. In this challenge
  we had to build a chatbot which addresses the problems of the user. For this chatbot 
  we have chosen the topic to be Cancer. Our Chatbot, addresses common doubts and concerns
