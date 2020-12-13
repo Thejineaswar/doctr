@@ -180,3 +180,104 @@ nlu:
   examples: |
     -what are the side effects of radiation therapy
     -side effects of radiation
+
+- intent: remission
+  examples: |
+    -what is remission
+    -what Does remission Look Like
+    -what does remission mean
+
+- intent: curedcan_remission_same
+  examples: |
+    -is cured cancer and remission same
+
+- intent: diff_curedcan_remission
+  examples: |
+    -how do we get to know that cancer is in remission and not cured
+    -difference between cured cancer and remission
+
+- intent: remisson_cancer_back
+  examles: |
+    -Once we have entered in remission is it possible that we get cancer back
+    -is there any chance if getting cancer back after entering in the phase of remission
+
+- intent: get_remission
+  examples: |
+    -How Do You Get to Remission
+
+- intent: remission_type
+  examples: |
+    -what are the types of remission
+    -types of remission
+    -How many types of remission are there
+
+- intent: stay_remission
+  examples: |
+    -How to stay in the stage remission
+
+- intent: recovery_wellness_plan
+  examples: |
+    -Cancer Recovery Wellness Plan
+    -What should be wellness plan after cancer recovery
+
+- intent: lifechange_cancer
+  examples: |
+    -Is it possible to live the same old life after suffering from cancer
+
+- intent: post_cancer_treat
+  examples: |
+    -How do we feel after the cancer treatment
+    -post cancer treatment feeling
+
+- intent: pstd
+  examples: |
+    -what is PSTD
+    -fullform of PSTD
+
+- intent: help_pstd
+  examples: |
+    -How to get help in such situation
+
+- intent: cancer_sex_life
+  examples: |
+    -Does cancer affect an individual's sex life
+    -how much does sex life changes after cancer treatment or cancer
+    
+- intent: cope_sex_cancer
+  examples: |
+    -how to cope with the problems related to sex life after cancer or cancer treatment
+    -So, is it that after cancer individual dont  have sex life
+- intent: recurrent
+  examples: |
+    -What does recurrent cancer mean
+    -Define recurrent cancer
+
+- intent: cancer_back
+  examples: |
+    -Why Cancer Comes Back
+    -what are the reason for cancer to come back
+
+- intent: recurrent_types
+  examples: |
+    -what are the types of Recurrent cancer
+    -how many type of recurrent cancer are there
+
+- intent: seccanc_recurrent_same
+  examples: |
+    -Does recurrence and second cancer mean same
+    -is recurrent cancer and second cancer same
+    -what are the difference between second cancer and recurrent cancer
+
+- intent: recur_prog_same
+  examples: |
+    -Does recurrence and progression mean same
+    -what is the difference between recurrence and progression
+
+- intent: cancer_recur
+  examples: |
+    -Which Cancers Recur
+
+- intent: recur_canc_treat
+  examples: |
+    -what are the treatments for recurrent cancer
+    -recurrent cancer treatments

@@ -100,6 +100,177 @@ responses:
   utter_radiation_side:
   - text: "Nausea and Vomiting, Hair loss, Sun sensitivity, Taste change and Fatigue"
 
+  utter_remission:
+  - text: "It means you have either little or no sign of cancer in your body. It doesn’t show up on X-rays, MRI scans, or blood tests."
+
+  utter_curedcanc_remission_same:
+  - text: "No"
+
+  utter_diff_curedcan_remission:
+    - text: "Tests look for cancer cells in your blood. Scans like X-rays and MRIs show if your tumor is smaller or if it’s gone after surgery and isn’t growing back.
+      To qualify as remission, your tumor either doesn’t grow back or stays the same size for a month after you finish treatments.
+      A complete remission means no signs of the disease show up on any tests."
+
+  utter_remisson_cancer_back:
+    -text: "Yes, if u r in remission that doesn’t mean your cancer is gone forever. You can still have cancer cells somewhere in your body. Regular checkups will help your doctormake sure the disease isn’t active again.
+      When cancer does come back, it’s called recurrence. There’s no way to tell if or when that will happen. This can happen weeks, months, or even years after remission." add "If and when a cancer comes back varies greatly depending on the cancer type."
+
+  utter_get_remission:
+    -text: "You and your doctor can come up with a treatment plan to try to get you there. What’s in the plan depends on:
+      Your type of cancer, What stage it’s in, Side effects or risks of each treatment, Your age or other health problems
+      If your cancer is in an early stage and hasn’t spread to other areas of your body, you might choose an aggressive treatment. This may mean more short-term side effects, but you could kill off the cancer cells or tumor.
+      You can also choose treatments to go into partial remission. You’ll have fewer side effects, the tumor will either shrink or at stay the same size, and your symptoms will ease up.  
+      Different treatments can help you go into remission:
+      Drugs like chemotherapy or targeted therapies, Radiation, Surgery, Hormone therapy, Immunotherapy, Bone marrow or stem-cell therapy."
+
+  utter_remission_type:
+    -text: "There are 2 types of Remission
+      Partial: 
+      Treatments have killed off most of your cancer cells, but tests show you still have some in your body. Your tumor has shrunk at least to half of its original size or hasn’t grown bigger. Your doctor may also say it’s stable.
+      Complete: 
+      All signs of your cancer and its symptoms are gone."
+
+  utter_stay_remission:
+    -text: "One way is called maintenance therapy. That means you take lower doses of cancer drugs or hormones to keep the disease from coming back. You’re still in remission, and these treatments help you stay there.
+      Take these healthy steps to keep your cancer at bay:
+        Eat a healthy diet, with lots of fresh fruits,veggies, and whole grains., 
+        Don’t smoke, or quit if you do, 
+        Stay at a healthy weight, 
+        Skip alcohol, or drink only moderate amounts, 
+        Exercise, 
+        Try to manage stress,
+        join a cancer survivors support group."
+
+  utter_recovery_wellness_plan:
+    -text: "If you’ve recently ended cancer treatment, you’re probably looking forward to this next phase in your life.  you want to do all you can to feel good and stay well. This is the perfect time to make your lifestyle even healthier.
+      You can get a head start with these steps:
+        Eat Well:-
+                Healthy foods, especially plant-based foods, can boost your energy, keep your weight in check, and improve your overall health. Try to eat at least five servings of fruits and vegetables a day. Opt for legumes (beans) and whole grains instead of processed foods. For example, choose oatmeal instead of sugary cereal. Do all you can to slash the amount of sugar, red meat, processed meat, and processed foods you eat.
+        If You Smoke, Quit:-
+                It’s one of the best things you can do to improve your health and lower your odds of several cancers. Most people who kick the habit use more than one type of help (for example, a prescription nicotine replacement patch and talk therapy).
+        Skip the Booze:-
+                Alcohol can increase your odds of certain kinds of cancer. It’s also linked to other problems, like anxiety and sleep troubles. Limit the amount you drink (ask your doctor how much is safe for you) or stop altogether.
+        Stay Active:-
+                Regular physical activity after cancer treatment is crucial. It boosts your mood and makes you less likely to get anxious or depressed. It should help you handle physical problems like pain, exhaustion, and diarrhea. It could make your cancer less likely to return and help you live longer. Aim for about 30 minutes of moderate exercise, like walking or biking, most days. If you 
+                haven’t been active in a while, start slowly and build up over time. Always talk to your doctor before you start a new routine. If treatment or complications have led to weakness, swelling, 
+                or other issues that make it hard for you to get moving, you might work with a physical therapist. Your doctor should be able to suggest one who works with people who’ve had cancer.
+        Manage Your Stress:-
+                The worries don’t always end when treatment stops. You might feel anxious, depressed, or worried that your cancer will return. That’s why stress reduction should be a regular part of your 
+                post-treatment wellness plan. Think about things that make you feel good and relaxed. Make a point to do them regularly. Exercise, visit friends, get a massage, do some yoga, pray, or pick up 
+                a hobby like reading. Or try them all -- each is a good option. If you feel blue, anxious, or just not like yourself, therapy can help. Look for a licensed clinical mental health professional, like a 
+                psychologist, therapist or social worker. Choose one who’s worked with people that have cancer. Your doctor or nurse should be able to suggest someone.
+        Get Extra Help:-
+                While lifestyle changes are important, it can also help to see other medical professionals. Regular doctor visits (cancer-related and otherwise) are important. Depending on your situation, your 
+                doctor or health care team may send you to a mental health counselor, a post-cancer peer support group, a dietitian, or other professionals. If cancer changed the way you feel, think, move, or 
+                function, you might try occupational therapy. This type of treatment can help you change the way you move and alter your environment (like your home and office) and activities."
+
+ utter_lifechange_cancer:
+  -text: "It is ver difficult to go back to old life even after recovery. cancer experience can still affect you. Instead of feeling excited or happy, you might feel blue, anxious, let down, or even scared.Those feelings are 
+      normal. Just because the doctor says you’re cured or in remission doesn’t mean the stress of having cancer suddenly goes away. Dealing with a life-threatening illness can change the way you feel and how you 
+      approach life, even after you’re in remission. But there’s a lot you can do to make the transition from a person with cancer to survivor -- and feel good again."
+ 
+ utter_post_cancer_treat:
+  -text: "You could feel: 
+    Sad most days, or all the time. You might even feel like you don’t want to be alive.
+    Guilty that you survived when others haven’t.
+    Afraid your cancer will return -- so much so that it’s hard to enjoy your life.
+    Worried that your cancer will have negative effects on your relationships, finances, or other areas of your life.
+    Like you’re reliving the worst parts of your cancer diagnosis or treatment."
+
+  utter_pstd:
+    -text: "Post-traumatic stress disorder.People who have had cancer go through something called post-traumatic stress. That means you’re shocked, fearful, helpless, or horrified about cancer and issues related to it.
+       Cancer-related PTSD can occur any time, even after you’re in remission. Look for these signs:
+        Thoughts that frighten you and show up again and again
+        Overexcitement, not being able to concentrate, or even out of touch with reality
+        Trouble falling or staying asleep"
+
+  utter_help_pstd:
+    -text: "Being in remission or even being told you’re cured doesn’t mean you don’t still need support. Experts say it’s crucial to have someone to talk to about your fears and frustration.If you're having problems, don’t 
+        try to act like you’re OK. Instead, tell well-meaning loved ones you have to adjust to this new phase of life and you’re doing the best you can. Although you’re no longer in treatment, it’s OK to talk about cancer 
+        and how you feel. 
+        Reach out to one or more of the following: 
+        Support groups and peer counselors. 
+          Peer counselors are people who’ve had your type of cancer and can talk to you about the experience. Most cancer centers around the country have support groups and other free programs that 
+          can help you work through your emotions, even after your treatment ends. Your oncologist, nurse, or another member of your cancer care team should be able to give you a referral for a therapist, peer 
+          counselor, and/or support group.
+        A professional mental health counselor (therapist).
+          A clinical psychologist or social worker can help you sort through your feelings and give you smart solutions to ease your mind. Ask your cancer doctor or family doctor for a recommendation.
+        Your doctor.
+          hey may have resources, like a therapist you can see. They can help, too, if you need antidepressants or other medication for ongoing mood problems.
+        Your church, synagogue, mosque, or other spiritual or religious institution.
+          Faith and spiritual practices may give you a sense of purpose and help you feel better after treatment."
+
+  utter_cancer_sex_life:
+    -text: "After cancer treatment, your sex life may be a little different than it used to be. You may not be in the mood as often, and physical side effects can leave you feeling self-conscious. For instance, you may lose 
+        your hair, or your weight may change. Or you may have trouble controlling your bladder or bowels.While some effects of cancer treatment go away quickly, others can linger for months or years. If you’ve been
+        treated for prostate cancer, you may find it harder to get or keep an erection. Women who’ve had radiation or hormone therapy may have intense vaginal dryness that makes sex painful."
+  
+  utter_cope_sex_cancer:
+    -text: "No, it is not like this. The suffered/ suffering individual should keep some patience and find other ways to be close to person, like:
+        Explore other ways to be close to your partner. 
+          When you’re not in the mood for sex, you and your partner can still hold hands, kiss, cuddle, or give each other massages. Don’t be afraid to say what does and doesn’t feel good. Sharing your 
+          feelings with your partner can help bring you closer.
+        Have an open mind. 
+          If you’re not able to have the type of sex you’re used to, think of different ways you can become aroused. For instance, some women learn they can have an orgasm if a partner gently touches 
+          their breasts.
+        Make yourself comfortable.
+           Women who have vaginal pain or dryness can try using a water- or silicone-based lubricant. You may need to use a lot to notice a difference.
+        Ask your doctor about a prescription.
+          Some medicines, such as sildenafil (Viagra) and tadalafil (Cialis), get more blood to flow to the penis, making it easier for guys to get and keep an erection. Women with vaginal dryness can take 
+          low-dose estrogen as a pill, or use a cream or ring that fits inside the vagina.
+        Get help from a medical device. 
+          A vacuum erection device (VED) helps stiffen your penis when you’re ready for sex, although it won’t help if you have trouble getting in the mood. If a VED doesn’t work, you can talk to your doctor
+           about a penile implant. Women who have pain during sex can use a plastic tube called a vaginal dilator a few times each week. It gently stretches your vagina and may ease any tightness you feel.
+        Think about your new normal.
+          During cancer treatment, you may have had a part of your body removed. Be honest with yourself and your partner about how you’d like this area treated. Talk about it ahead of time, and you may 
+          find it easier to relax during sex.Depending on the type of cancer you had, your body may also work differently now. For example, some people who’ve had treatment for colorectal cancer may 
+          need to wear an ostomy bag, which collects body waste. If so, you can cover it with a special pouch or wear a shirt over it during sex if it makes you self-conscious.
+        Talk to someone. 
+          Your doctor may have some advice you haven’t tried yet. You can also talk to a licensed counselor or sex therapist. You may want to ask your partner to go to a session with you.
+        Build up your confidence.     
+          Focus on the parts of your body that you like. Make time for activities that make you feel happy and confident. The better you feel about yourself, the more you’ll be able to relax and enjoy having 
+          sex."
+
+  utter_recurrent:
+    -text: "Sometimes, cancer can come back after you've had treatment. This is what doctors call a recurrence. It's different from a new cancer. And it can show up anywhere in your body.Experts usually consider it a 
+        recurrence if your cancer returns after you've had no signs of the disease for at least a year. Cancers can recur several times, and in some cases, might not ever go away for good.
+        Cancer recurrence means the cancer you originally had has come back. It can develop in the same place it started or in a new part of your body.When the cancer returns or spreads to a different spot, it's still 
+        named after the area where it started. For example, breast cancer that comes back in your liver is called a breast cancer recurrence."
+
+  uttter_cancer_back:
+    -text: "The simplest explanation is that the treatment you had before didn't destroy all the cancer cells in your body. Even very small cells that were left behind can grow into tumors over time.That doesn't mean you got 
+        the wrong treatment. Cancer cells are tricky, and some can survive aggressive therapies. It only takes a few cells."
+
+  utter_recurrent_types:
+    -text: "there are 3 types of recurrent cancer
+        Local recurrence: The cancer comes back in the same place, or very close to, where it first started.
+        Regional recurrence: The tumor develops in the lymph nodes or tissues that are near the original cancer.
+        Distant recurrence: The recurrent cancer has spread, or what doctors call "metastasized," to faraway organs or tissues in your body."
+  
+  utter_seccanc_recurrent_same:
+    -text: "  A recurrence isn't the same thing as a second cancer. That's a new cancer that develops in another type of cell. Special tests can show your doctor if your disease is recurrent or a new kind. Second cancers are
+        much less common than cancer recurrences, but they do happen"
+
+  utter_recur_prog_same:
+    -text: "Your doctor might also use the word "progression" to describe your cancer. This is different than a recurrence, but it's easy to confuse the two terms. It usually comes down to how much time you've been 
+        cancer-free. Recurrence is cancer that goes away and comes back, while progression is cancer that worsens or spreads. Cancer that seems to return quickly may have become resistant to treatment, so it's 
+        actually a progression."
+
+  utter_cancer_recur:
+    -text: "Doctors can't predict if your specific cancer will recur. But they do know cancers are more likely to come back if they grow fast or are advanced. The treatment you originally had may also affect your chances of
+        recurrence.
+        Some types of cancer are more likely to come back than others. For example, about:
+          7 out of 10 women with ovarian cancer will have a recurrence.
+          Half of people with colorectal cancer who get surgery will have a recurrence in the first 3 years after it.
+        In the future, genetic tests might be able to forecast whether certain cancers, such as breast cancer, colon cancer, and melanoma, will come back."
+
+  utter_recur_canc_treat:
+    -text: "Cancers that recur don't always respond as well to treatment as they did the first time.Your treatment plan will probably depend on the type of cancer you have, how advanced it is, and where it's located. If the 
+        cancer only recurs in the original site, surgery or radiation might be good choices. But if your disease has spread to distant areas of your body, you may need more aggressive treatments, like chemotherapy, 
+        biological therapy, or radiation. You can also check out clinical trials. These research studies might allow you to receive new treatments that aren't yet available to the public. A second opinion from another doctor 
+        can give you more ideas and help you decide what to do."
+
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

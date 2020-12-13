@@ -71,3 +71,54 @@ stories:
   - action: utter_radiation_info
   - intent: radiation_side
   - action: utter_radiation_side
+
+- story: remission
+  steps:
+  - intent: remission
+  - action: utter_remission
+  - intent: curedcan_remission_same
+  - action: utter_curecan_remission_same
+  - intent: diff_curedcan_remission
+  - action: utter_diff_curedcan_remission
+  - intent: remisson_cancer_back
+  - action: utter_remission_cancer_back
+  - intent: get_remission
+  - action: utter_get_remission
+  - intent: remission_type
+  - action: utter_remissoin_type
+  - intent: stay_remission
+  - avtion: utter_stay_remission
+  - intent: recovery_wellness_plan
+  - action: utter_recovery_wellness_plan
+  - intent: lifechange_cancer
+  - action: lifechange_cancer
+  - intent: post_cancer_treat
+  - action: utter_post_cancer_treat
+  - intent: pstd
+  - action: utter_pstd
+  - intent: help_pstd
+  - action: utter_help_pstd
+
+- story: cancer_intimacy
+  steps:
+    - intent: cancer_sex_life
+    - action: utter_cancer_sex_life
+    - intent: cope_sex_cancer
+    - action: utter_cope_sex_cancer
+
+- story: recurrent_cancer
+  steps:
+    - intent: recurrent
+    - action: utter_recurrent
+    - intent: cancer_back
+    - actiion: utter_cancer_back
+    - intent: recurrent_types
+    - action: utter_recurrent_types
+    - intent: seccanc_recurrent_same
+    - action: utter_seccanc_recurrent_same
+    - intent: recur_prog_same
+    - action: utter_recur_prog_same
+    - intent: cancer_recur
+    - action: utter_cancer_recur 
+    - intent: recur_canc_treat
+    - action: utter_recur_canc_treat
